@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+	<GridView 
+	    android:id="@+id/gv_expression"
+	    android:layout_width="match_parent"
+	    android:layout_height="200dp"
+	    android:scrollbars="none"
+	    android:columnWidth="55dp"
+	    android:numColumns="auto_fit"
+	    android:stretchMode="columnWidth"
+	    android:gravity="center"/>
+	
+	<!-- numColumns 如果选用auto_fit 系统会自动根据columnWidth和spacingWidth的宽度自动计算有多少列 -->
+	<!-- stretchMode表示如何填满剩余的位置，如果选用columnWidth会平均分给column，如果选用spacingWidth会平均分给spacing -->
+	
+</LinearLayout>

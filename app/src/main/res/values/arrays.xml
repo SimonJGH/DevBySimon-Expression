@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<array name="picture_array">
+		<item>拍照上传</item>
+		<item>选择本地图片</item>
+	</array>
+    <!-- 表情图标文本 -->
+	<string-array name="default_thumbs_texts">
+		<item>"[爱你]"</item>
+		<item>"[拜拜]"</item>
+		<item>"[悲伤]"</item>
+		<item>"[鄙视]"</item>
+		<item>"[闭嘴]"</item>
+		<item>"[馋嘴]"</item>
+		<item>"[吃惊]"</item>
+		<item>"[打哈气]"</item>
+		<item>"[打脸]"</item>
+		<item>"[钉]"</item>
+		<item>"[感冒]"</item>
+		<item>"[鼓掌]"</item>
+		<item>"[哈哈]"</item>
+		<item>"[害羞]"</item>
+		<item>"[汗]"</item>
+		<item>"[呵呵]"</item>
+		<item>"[黑线]"</item>
+		<item>"[哼]"</item>
+		<item>"[花心]"</item>
+		<item>"[挤眼]"</item>
+		<item>"[可爱]"</item>
+		<item>"[可怜]"</item>
+		<item>"[酷]"</item>
+		<item>"[困]"</item>
+		<item>"[懒得理你]"</item>
+		<item>"[泪]"</item>
+		<item>"[怒]"</item>
+		<item>"[怒骂]"</item>
+		<item>"[钱]"</item>
+		<item>"[亲亲]"</item>
+		<item>"[傻眼]"</item>
+		<item>"[生病]"</item>
+		<item>"[失望]"</item>
+		<item>"[衰]"</item>
+		<item>"[睡觉]"</item>
+		<item>"[思考]"</item>
+		<item>"[太开心]"</item>
+		<item>"[偷笑]"</item>
+		<item>"[吐]"</item>
+		<item>"[挖鼻屎]"</item>
+		<item>"[委屈]"</item>
+		<item>"[笑哭]"</item>
+		<item>"[嘻嘻]"</item>
+		<item>"[嘘]"</item>
+		<item>"[阴险]"</item>
+		<item>"[疑问]"</item>
+		<item>"[左哼哼]"</item>
+		<item>"[右哼哼]"</item>
+		<item>"[晕]"</item>
+		<item>"[抓狂]"</item>
+		<item>"[男孩儿]"</item>
+		<item>"[女孩儿]"</item>
+		<item>"[猪头]"</item>
+		<item>"[兔子]"</item>
+		<item>"[狗]"</item>
+		<item>"[肥皂]"</item>
+		<item>"[删除]"</item>
+	</string-array>
+
+	
+    <!-- 表情图标名称 -->
+	<string-array name="default_thumbs_names">
+		<item>"d_aini"</item>
+		<item>"d_baibai"</item>
+		<item>"d_beishang"</item>
+		<item>"d_bishi"</item>
+		<item>"d_bizui"</item>
+		<item>"d_chanzui"</item>
+		<item>"d_chijing"</item>
+		<item>"d_dahaqi"</item>
+		<item>"d_dalian"</item>
+		<item>"d_ding"</item>
+		<item>"d_ganmao"</item>
+		<item>"d_guzhang"</item>
+		<item>"d_haha"</item>
+		<item>"d_haixiu"</item>
+		<item>"d_han"</item>
+		<item>"d_hehe"</item>
+		<item>"d_heixian"</item>
+		<item>"d_heng"</item>
+		<item>"d_huaxin"</item>
+		<item>"d_jiyan"</item>
+		<item>"d_keai"</item>
+		<item>"d_kelian"</item>
+		<item>"d_ku"</item>
+		<item>"d_kun"</item>
+		<item>"d_landelini"</item>
+		<item>"d_lei"</item>
+		<item>"d_nu"</item>
+		<item>"d_numa"</item>
+		<item>"d_qian"</item>
+		<item>"d_qinqin"</item>
+		<item>"d_shayan"</item>
+		<item>"d_shengbing"</item>
+		<item>"d_shiwang"</item>
+		<item>"d_shuai"</item>
+		<item>"d_shuijiao"</item>
+		<item>"d_sikao"</item>
+		<item>"d_taikaixin"</item>
+		<item>"d_touxiao"</item>
+		<item>"d_tu"</item>
+		<item>"d_wabishi"</item>
+		<item>"d_weiqu"</item>
+		<item>"d_xiaoku"</item>
+		<item>"d_xixi"</item>
+		<item>"d_xu"</item>
+		<item>"d_yinxian"</item>
+		<item>"d_yiwen"</item>
+		<item>"d_zuohengheng"</item>
+		<item>"d_youhengheng"</item>
+		<item>"d_yun"</item>
+		<item>"d_zhuakuang"</item>
+		<item>"d_nanhaier"</item>
+		<item>"d_nvhaier"</item>
+		<item>"d_zhutou"</item>
+		<item>"d_tuzi"</item>
+		<item>"d_doge"</item>
+		<item>"d_feizao"</item>
+		<item>"h_del"</item>
+	</string-array>
+	
+	 
+</resources>
